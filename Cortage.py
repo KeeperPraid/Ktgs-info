@@ -21,3 +21,24 @@
 # unique_items = set(shopping_list)
 # unique = len(unique_items)
 # print (unique)
+
+#Словарь времён года
+# seasons_dict = {'1':"Зима",'2':"Весна",'3':"Лето",'4':"Осень"}
+# print(seasons_dict)
+
+# Посещения сайта
+# All = {}
+# Unique = {}
+# users = ['user1', 'user2', 'user3', 'user1', 'user4', 'user2']
+# Every = len(users)
+# Uniq = set(users)
+# Uni = len(Uniq)
+# All.update({'Общее количество':Every})
+# Unique.update({'Уникальных посещений':Uni})
+# print (All,Unique)
+
+# sps_ = ["Дубровский", "Горе от ума", "Кавказский пленник", "Хамелеон","Ревизор", "Гранатовый браслет"]
+# last = sps_[5]
+# spk_ = {'Пушкин':"Дубровский", "2":"Горе от ума", "3":"Кавказский пленник", "4":"Хамелеон", "5":"Ревизор", "6":"Гранатовый браслет"}
+# first = spk_['Пушкин']
+# print (first,","last)
